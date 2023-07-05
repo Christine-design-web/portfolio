@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 1em;
+  }
+  
+  p {
+    margin-bottom: 1em;
+  }
+  
+  .projects {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .projects li {
+    display: inline-block;
+    margin-right: 1em;
+  }
+  
+  .projects a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .contact {
+    margin-top: 2em;
+  }
